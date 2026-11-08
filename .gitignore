@@ -1,0 +1,12 @@
+.remember/
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+node_modules/
+.venv/
+venv/
